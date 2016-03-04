@@ -1,3 +1,4 @@
+//Copyrigth Josuechandia.INC
 function chocolatear()
 {
     var palabras = ["ABEJA","ORNITORRINCO", "SUPERMAN", "MINECRAFT", "PERU", "LAPTOP", "TOMATE","ACCESIBIBILIDAD"]
