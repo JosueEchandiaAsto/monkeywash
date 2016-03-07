@@ -1,4 +1,4 @@
-//Copyrigth Josuechandia.INC
+//Copyrigth Josuechandia.INC___________
 function chocolatear()
 {
     var palabras = ["ABEJA","ORNITORRINCO", "SUPERMAN", "MINECRAFT", "PERU", "LAPTOP", "TOMATE","ACCESIBIBILIDAD"]
