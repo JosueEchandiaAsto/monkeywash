@@ -1,0 +1,14 @@
+{
+  "name": "monkeywash",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
