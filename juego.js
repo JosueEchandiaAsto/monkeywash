@@ -1,7 +1,7 @@
 //Copyrigth Josuechandia.INC
 function chocolatear()
 {
-    var palabras = ["MAYFE","DANIEL","NILBER"]
+    var palabras = ["JOSUE","JERSON","SAMUEL", "REBECA", "BELEN", "ANA", "AYRTON"]
     palabra = palabras[Math.floor(Math.random()*(palabras.length - 0))]
 }
 var palabra
